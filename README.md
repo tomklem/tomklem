@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomklem
 - 👀 I’m interested in Web Development and Drupal.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning modern Javascript
 
 
 <!---
